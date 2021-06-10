@@ -14,7 +14,7 @@ export default function Home() {
     <div>
       <div>
       <h1 className={styles.title}>Homepage</h1>
-      <p className={styles.text} >Hello everyone, in this website you can find some professional ninjas and thier personal details. If you want to assassinate your enemies please contact us. We will hire you the best ninja for completing your job. </p>
+      <p className={styles.text} >Hello everyone, in this website you can find the worldclass professional ninjas and thier personal details. If you want to assassinate your enemies please contact us. We will hire you the best ninja for completing your job. </p>
       <p className={styles.text}>Click the button down below to visit our ninjas</p>
       <Link href="/ninjas/">
         <a className={styles.btn}>See Ninja Listing</a>
