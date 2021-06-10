@@ -33,7 +33,7 @@ function Deatils({ninja}) {
             <h1>Name of the Ninja : {ninja.name}</h1>
             <p>Email Id : {ninja.email}</p>
             <p>His personal website : {ninja.website}</p>
-            <p>CUrrent location : {ninja.address.city}</p>
+            <p>Current location : {ninja.address.city}</p>
 
         </div>
     )
